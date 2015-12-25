@@ -12,7 +12,7 @@ Use the shortcode `restrict` in the same manner as you would any other shortcode
 *Arguments*
 
 - roles
-- capabilitys
+- capability
 
 <pre>[restrict capability="editor"] restricted content goes here [/restrict]</pre>
 
